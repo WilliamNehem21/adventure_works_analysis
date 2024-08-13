@@ -17,9 +17,9 @@ This project involves an analysis of the sales and inventory data for a fictiona
 - **Product Bundling**: Proposed bundling bicycles with accessories and offering promotional deals to boost sales.
 
 ### Authors
-- [Dearen Hippy] (https://github.com/DearenHippy)
-- [Neil Christopher] (https://github.com/neilchristopher2002)
-- [William Nehemia] (https://github.com/WilliamNehem21)
+- [Dearen Hippy](https://github.com/DearenHippy)
+- [Neil Christopher](https://github.com/neilchristopher2002)
+- [William Nehemia](https://github.com/WilliamNehem21)
 
 ### Course
 Business Intelligence Systems
